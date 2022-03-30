@@ -1,16 +1,10 @@
 # grocery_app
 
-A new Flutter project.
+Grocery app (Only essetial pages):
+-login screen
+-register screen
+-main category screen
+-(other screens may be added son in case they are designed)
+(if you have any design ideas for this app you can show me thank you in advance that was a hobby work which i code in my spare times)
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![grocery_all_pages](https://user-images.githubusercontent.com/70948122/160934912-a86e0031-4ca9-48b4-9db8-acbcab17e38a.jpg)
